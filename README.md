@@ -14,8 +14,6 @@ My capstone team built Sedona to help reviewers compare vendor security question
 
 ### [Hearth AI](https://github.com/itzadx-sudo/Hearth-AI)
 
-Hearth AI charts simulated vital signs and raises alerts when readings need attention. It’s a demo of what a home-care monitoring dashboard can look like.
+Hearth AI is a home-care monitoring demo with live charts for simulated vital signs and alerts when readings need attention.
 
-### [Formula 1 Tweet Analysis](https://github.com/itzadx-sudo/Formula1---Tweet-Analysis)
-
-I used BERTopic and BERTweet to explore what F1 fans discussed on Twitter, from race weekends to technical regulations.
+[![Hearth AI dashboard showing a vital signs chart and patient status breakdown](./hearth-ai-overview.jpg)](https://github.com/itzadx-sudo/Hearth-AI)
