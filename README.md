@@ -1,6 +1,6 @@
 # Aditya Jain
 
-I’m an IT and AI graduate based in Dubai. I like building tools that make complex information easier to work with.
+I’m an AI graduate based in Dubai. I like building tools that make complex information easier to work with.
 
 [LinkedIn](https://www.linkedin.com/in/itzadx-sudo/)
 
