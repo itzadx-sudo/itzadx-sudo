@@ -30,12 +30,3 @@ Hearth AI is a home-care monitoring demo that uses simulated patient data. The d
 **Built with:** Python, PyTorch, TabNet, SQLite. Tested on 500 simulated patients.
 
 [![Hearth AI dashboard showing a vital signs chart and patient status breakdown](./hearth-ai-overview.jpg)](https://github.com/itzadx-sudo/Hearth-AI)
-
-## Experience
-
-**AI Product Development Intern, AI CEO** (Jun – Oct 2026)
-Product research, competitor analysis and user flows for a Dubai startup, plus a seven-screen Figma prototype exploring how people interact with agentic AI.
-
-## Open to
-
-AI product, product design and applied AI roles in Dubai.
