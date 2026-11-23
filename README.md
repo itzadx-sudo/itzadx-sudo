@@ -4,7 +4,7 @@
 
 I'm an AI graduate from Murdoch University, based in Dubai. I build tools that make complex information easier to work with, and I care as much about how a product feels to use as whether it works.
 
-[LinkedIn](https://www.linkedin.com/in/itzadx-sudo/) · [Email](mailto:adityajain009@icloud.com)
+[LinkedIn](https://www.linkedin.com/in/itzadx-sudo/)
 
 ## What I do
 
@@ -43,5 +43,3 @@ Hearth AI is a home-care monitoring demo that uses simulated patient data. The d
 ## Tools
 
 **Tools:** Python, SQL, PyTorch, scikit-learn, LLM workflows and RAG (llama.cpp, Ollama, ChromaDB), Dash and Plotly, Git and GitHub, AWS and Azure, Figma, Claude Code, Google Antigravity.
-
-**Certification:** GitHub Foundations (GH-900), Nov 2026.
