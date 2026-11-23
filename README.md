@@ -19,7 +19,7 @@ I'm an AI graduate from Murdoch University, based in Dubai. I build tools that m
 Sedona is our capstone project for Murdoch University IT. It checks vendors' answers to security questionnaires against university policies, highlights gaps for reviewers, and generates reports they can share with their team.
 
 **My role:** Product Lead for a team of six. I led product direction, client communication, the frontend redesign, testing and documentation.
-**Built with:** local LLM workflows, HECVAT-based assessment, risk scoring, pytest.
+**Built with:** local LLM workflows, HECVAT-based assessment, risk scoring.
 
 [![Sedona results dashboard with a risk score and a breakdown of findings by severity](./sedona-risk-results.jpg)](https://github.com/itzadx-sudo/Sedona)
 
